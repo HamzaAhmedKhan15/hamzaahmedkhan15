@@ -1,12 +1,17 @@
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arshan-alee&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaahmedkhan15" /> </p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamza+Ahmed+Khan!;" />
+    <h3 align="center" height="20">A passionate Frontend developer from Karachi, Pakistan</h3>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshan-alee&label=Profile%20views&color=0e75b6&style=flat" alt="arshan-alee" /> </p>
-<h3 align="left">A passionate Frontend Developer from Karachi, Pakistan</h3>
+<br/>
 
 <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
     alt="coding" align="right" width="400">
+
+<p align="left">
 
 - 🌱 I’m currently learning **Blockchain**
 
@@ -14,6 +19,7 @@
 
 -  ⚡ Fun fact **Contrary to popular belief, I know exactly what I'm doing**
 
+ </p>
     
 
 
