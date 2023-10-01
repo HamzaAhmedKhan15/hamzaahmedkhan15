@@ -13,7 +13,7 @@
 ## About Me:
 💫 Im an aspiring ReactJS - Frontend Developer from Karachi, Pakistan with a strong commitment to creating exceptional web experiences. Currently in my 7th semester pursuing a BS in Computer Science from NED University.
 
-🚀 My educational journey has equipped me with a solid foundation in computer science principles, algorithms, and data structures. With an eye for detail and a passion for coding, I am continuously enhancing my proficiency in learning technolgies i.e. **Data Science** and as well as **Blockchain**
+🚀 My educational journey has given me a solid base in computer science principles, algorithms, and data structures. With a keen eye for detail and a passion for coding, I am continually enhancing my proficiency in adopting new technologies.
 
 <br/>
 
