@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React JS, Python, PostgreSQL, Firebase, Git**
 
-- 👯 I’m looking to collaborate on projects so that it helps me in learning.
+- 🤝 I’m looking to collaborate on projects so that it helps me in learning.
 
 -  ⚡ Fun fact **Contrary to popular belief, I know exactly what I'm doing**
 
