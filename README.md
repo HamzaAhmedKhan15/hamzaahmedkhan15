@@ -49,7 +49,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,react,python,html,css,javascript,bootstrap,cpp,jquery,postgresql,firebase,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,materialui,tailwind,netlify,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,materialui,tailwind,netlify,git" />
 </div>
 
 <br/>
@@ -60,7 +60,7 @@
 
 <!--
 **HamzaAhmedKhan15/hamzaahmedkhan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+express,mongodb,postman,
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
