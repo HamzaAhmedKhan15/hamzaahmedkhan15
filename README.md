@@ -48,8 +48,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,react,python,html,css,javascript,bootstrap,cpp,jquery,postgresql,firebase,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,materialui,tailwind,netlify,git" />
+    <img src="https://skillicons.dev/icons?i=github,react,python,html,css,javascript,bootstrap,jquery,cpp,firebase,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=postgresql,nodejs,materialui,tailwind,netlify,git" />
 </div>
 
 <br/>
