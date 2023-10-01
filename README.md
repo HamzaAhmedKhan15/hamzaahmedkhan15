@@ -60,7 +60,16 @@
 
 ![HamzaAhmedKhan15's Stats](https://github-readme-stats.vercel.app/api?username=HamzaAhmedKhan15&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![HamzaAhmedKhan15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmedKhan15&theme=react&show_icons=true&hide_border=true&layout=compact)
-    
+<br/>
+![HamzaAhmedKhan15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzaAhmedKhan15&theme=react&hide_border=true)
+
+
+<br/>
+
+<hr/> 
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
 
 <!--
