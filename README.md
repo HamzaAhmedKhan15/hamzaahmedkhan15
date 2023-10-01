@@ -21,6 +21,8 @@
 
 - 💬 Ask me about **React JS, Python, PostgreSQL, Firebase, Git**
 
+- 👯 I’m looking to collaborate on projects so that it helps me in learning.
+
 -  ⚡ Fun fact **Contrary to popular belief, I know exactly what I'm doing**
 
  </p>
@@ -54,7 +56,11 @@
 
 <br/>
  
+## Github Stats:
 
+![HamzaAhmedKhan15's Stats](https://github-readme-stats.vercel.app/api?username=HamzaAhmedKhan15&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![HamzaAhmedKhan15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HamzaAhmedKhan15&theme=vue-dark&hide_border=true)
+![HamzaAhmedKhan15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaAhmedKhan15&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
     
 
 
@@ -65,7 +71,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
