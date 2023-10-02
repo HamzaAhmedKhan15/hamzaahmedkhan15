@@ -51,7 +51,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,react,python,html,css,javascript,bootstrap,jquery,cpp,firebase,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,nodejs,materialui,tailwind,netlify,git" />
+    <img src="https://skillicons.dev/icons?i=postgresql,nodejs,express,mongodb,materialui,tailwind,netlify,git" />
 </div>
 
 <br/>
