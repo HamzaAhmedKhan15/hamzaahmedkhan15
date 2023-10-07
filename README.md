@@ -23,7 +23,7 @@ My educational journey has given me a solid base in computer science principles,
 
 - 🤝 I’m looking to collaborate on projects so that it helps me in learning.
 
--  ⚡ Fun fact **Contrary to popular belief, I know exactly what I'm doing**
+- ⚡ Fun fact **Contrary to popular belief, I know exactly what I'm doing**
 
  </p>
 
