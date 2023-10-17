@@ -26,6 +26,7 @@ My educational journey has given me a solid base in computer science principles,
 - 🤝 I’m looking to collaborate on projects so that it helps me in learning.
 
 - ⚡ Fun fact **Contrary to popular belief, I know exactly what I'm doing**
+- 
  </p>
 
 <br/>
@@ -40,10 +41,9 @@ My educational journey has given me a solid base in computer science principles,
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://hamzasportfolio.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
 
 <br/>
 
