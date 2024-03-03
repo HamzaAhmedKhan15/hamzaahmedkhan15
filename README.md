@@ -12,13 +12,13 @@
 <p align="left">
     
 ## About Me:
-Im an aspiring MERN Stack Developer from Karachi, Pakistan with a strong commitment to creating exceptional web experiences. Currently in my 7th semester pursuing a BS in Computer Science degree from NED University.
+Im an aspiring MERN Stack Developer from Karachi, Pakistan with a strong commitment to creating exceptional web experiences. Currently in my final semester pursuing a BS in Computer Science degree from NED University.
 
 My educational journey has given me a solid base in computer science principles, algorithms, and data structures. With a keen eye for detail and a passion for coding, I am continually enhancing my proficiency in adopting new technologies.
 
 <br/>
 
-- 🌱 I’m currently learning **Blockchain** 
+- 🌱 I’m currently learning **Blockchain** and **Full Stack Web Development**
 
 - 💬 Ask me about **MERN (MongoDB, Express JS, React JS, Node JS), Python, MySQL, Git**
 
@@ -51,7 +51,7 @@ My educational journey has given me a solid base in computer science principles,
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,react,python,html,css,javascript,bootstrap,jquery,cpp,firebase,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=postgresql,nodejs,express,mongodb,postman,materialui,tailwind,netlify,git" />
+    <img src="https://skillicons.dev/icons?i=mysql,nodejs,express,mongodb,postman,materialui,tailwind,netlify,git" />
 </div>
 
 <br/>
