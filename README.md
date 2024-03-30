@@ -18,14 +18,14 @@ My educational journey has given me a solid base in computer science principles,
 
 <br/>
 
-- 🌱 I’m currently learning **Blockchain** and **Full Stack Web Development**
+- 🌱 I’m currently pursuing **Full Stack Web Development**.
 
-- 💬 Ask me about **MERN (MongoDB, Express JS, React JS, Node JS), Python, MySQL, Git**
+- 💬 Ask me about **MERN (MongoDB, Express JS, React JS, Node JS), NextJS, MySQL, Git**
 
 - 🤝 I’m looking to collaborate on projects so that it helps me in learning.
 
 - ⚡ Fun fact **Contrary to popular belief, I know exactly what I'm doing**
-- 
+ 
  </p>
 
 <br/>
