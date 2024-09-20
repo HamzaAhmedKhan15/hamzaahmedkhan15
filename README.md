@@ -51,7 +51,7 @@ My educational journey has given me a solid base in computer science principles,
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,react,next,javascript,typescript,nodejs,express,mongodb,postman,materialui,redux,netlify,git" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,mysql,firebase,vscode,python,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,mysql,firebase,vscode,python,c#" />
 </div>
 
 <br/>
