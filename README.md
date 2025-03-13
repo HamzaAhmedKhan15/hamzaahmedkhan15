@@ -12,15 +12,15 @@
 <p align="left">
     
 ## About Me:
-Im an aspiring MERN Stack Developer from Karachi, Pakistan with a strong commitment to creating exceptional web experiences. Currently in my final semester pursuing a BS in Computer Science degree from NED University.
+Im an aspiring MERN Stack Developer from Karachi, Pakistan. Completed my graduation degree in BS Computer Science from NED University. During my university I have gained professional experiences working in tech industry with a strong commitment to creating exceptional web experiences. Currently I am working as a Junior Frontend Developer at Quanrio LLP-a US based software company. 
 
-My educational journey has given me a solid base in computer science principles, algorithms, and data structures. With a keen eye for detail and a passion for coding, I am continually enhancing my proficiency in adopting new technologies.
+My educational and professional journey has given me a solid base in computer science principles, algorithms, and data structures. With a keen eye for detail and a passion for coding, I am continually enhancing my proficiency in adopting new technologies.
 
 <br/>
 
 - 🌱 I’m currently pursuing **Full Stack Web Development**.
 
-- 💬 Ask me about **MERN (MongoDB, Express JS, React JS, Node JS), NextJS, MySQL, Git**
+- 💬 Ask me about **MERN (MongoDB, Express JS, React JS, Node JS), NextJS, MySQL, Git Version Controlling**
 
 - 🤝 I’m looking to collaborate on projects so that it helps me in learning.
 
